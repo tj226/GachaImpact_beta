@@ -34,7 +34,7 @@ Diagnostics:
 
 1.1.3 UPDATE (Public Launch Update):
 - Support for other devices has now been added in preparation for GachaImpact going public!
-  Go to https://github.com/tj226/GachaImpactver1.1.3_beta to download a fully compiled and 
+  Go to https://github.com/tj226/GachaImpact_beta to download a fully compiled and 
   ready to use version of GachaImpact
 
 1.1.2 UPDATE:
