@@ -1,4 +1,4 @@
-# GachaImpactver1.1.4_beta
+# GachaImpactver1.1.5_beta
 
 Welcome to GachaImpactver1.1.5_beta_public, your all-in-one Genshin streaming assistant!
 Track your rolls, stream music for your viewers, and even celebrate when you pull a 5-star!
