@@ -30,7 +30,7 @@ Diagnostics:
   decrease the counter in case you accidentally increase it too many times
 - Updated the README to reflect these changes
 - Changed the scrolling text for song names that are too long to be easier to read
-  (especially at the beginnning)
+  (especially at the beginning)
 
 1.1.4 UPDATE (Mixer Update):
 - The music player now loads the next track automatically after the previous one is finished
